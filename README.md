@@ -1,13 +1,13 @@
 # homework4
 <!--START_SECTION:activity-->
-1. 📝 Committed to [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework/commit/507b54fbf8f7376797d1d1920e478bc12303232a)
-2. ➕ Created a new branch [`2-readmehomework4`](https://github.com/jeffchen-s-organization/homework/tree/2-readmehomework4) in [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework)
-3. 📝 Committed to [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework/commit/7ba9836dda9892ae7b46cc91752b5f8525f977ea)
-4. 🆕 Opened an issue [#2](https://github.com/jeffchen-s-organization/homework2/issues/2) in [jeffchen-s-organization/homework2](https://github.com/jeffchen-s-organization/homework2)
-5. 📝 Committed to a private repo
-6. ❌ Closed an issue [#6](https://github.com/jeff0963/jeffchen/issues/6) in [jeff0963/jeffchen](https://github.com/jeff0963/jeffchen)
-7. 🆕 Opened an issue [#6](https://github.com/jeff0963/jeffchen/issues/6) in [jeff0963/jeffchen](https://github.com/jeff0963/jeffchen)
-8. 🆕 Opened an issue [#5](https://github.com/jeff0963/jeffchen/issues/5) in [jeff0963/jeffchen](https://github.com/jeff0963/jeffchen)
-9. 🆕 Opened an issue [#4](https://github.com/jeff0963/jeffchen/issues/4) in [jeff0963/jeffchen](https://github.com/jeff0963/jeffchen)
-10. 🆕 Opened an issue [#3](https://github.com/jeff0963/jeffchen/issues/3) in [jeff0963/jeffchen](https://github.com/jeff0963/jeffchen)
+1. ➕ Created a new branch [`main`](https://github.com/jeff0963/homework4/tree/main) in [jeff0963/homework4](https://github.com/jeff0963/homework4)
+2. 🎉 Created a new repository [jeff0963/homework4](https://github.com/jeff0963/homework4)
+3. 🆕 Opened an issue in a private repo
+4. 🎉 Created a new private repository
+5. 🗑️ Deleted a branch `2-readmehomework4` in [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework)
+6. 📝 Committed to [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework/commit/06541708d58958598a00e9ff103cc95c578927d7)
+7. 🔀 Merged [PR #6](https://github.com/jeffchen-s-organization/homework/pull/6) in [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework)
+8. 📥 Opened [PR #6](https://github.com/jeffchen-s-organization/homework/pull/6) in [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework)
+9. 📝 Committed to [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework/commit/b18df7fdd16057fec4fe2f9012c811096f13b806)
+10. 🔀 Merged [PR #5](https://github.com/jeffchen-s-organization/homework/pull/5) in [jeffchen-s-organization/homework](https://github.com/jeffchen-s-organization/homework)
 <!--END_SECTION:activity-->
