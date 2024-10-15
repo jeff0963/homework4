@@ -21,16 +21,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Build
+      - name: Install dependencies and build
         run: |
           npm i -g @vercel/ncc
           npm i @actions/github
-          npm run build
-      - name: Commit
+          npm run build  # 需要確保 package.json 中有 "build" 腳本
+      - name: Commit build files
         run: |
           git config --global user.name 'jeff0963'
           git config --global user.email 'jerry26738@gmail.com'
-          git commit -am "dist build"
+          git add .
+          git commit -m "dist build"
           git push
 
   release:
@@ -50,7 +51,7 @@ jobs:
       - name: Release
         uses: actions/create-release@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.github_token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 確保這裡使用正確的大小寫
         with:
           tag_name: ${{ inputs.tag }}
           release_name: Release ${{ inputs.tag }}
