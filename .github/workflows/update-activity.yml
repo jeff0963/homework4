@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update GitHub Activity
-        uses: jeff0963/activity-log@v6
+        uses: jeff0963/activity-log@test
         with:
           GITHUB_USERNAME: "jeff0963"
           GITHUB_TOKEN: ${{ secrets.HOMEWORK_SECRET }} # Ensure this matches the secret name in repository settings
